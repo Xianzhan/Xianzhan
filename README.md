@@ -10,6 +10,8 @@
     由 Java 实现的 JVM 字节码解释器
 - [frame](https://github.com/Xianzhan/frame)
     框架的 Hello world 级别代码
+- [user-id-gen](https://github.com/Xianzhan/user-id-gen)
+    用户账号ID"随机"生成
 
 <!--
 **Xianzhan/Xianzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
