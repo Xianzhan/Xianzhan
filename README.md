@@ -11,6 +11,10 @@
 - [Netty](https://github.com/Xianzhan/frame/tree/master/netty)
 - [Spring Cloud](https://github.com/Xianzhan/frame/tree/master/springcloud)
 
+# Status
+
+学习 [Rust](https://www.rust-lang.org/) 中
+
 # Repository
 
 - [leecode](https://github.com/Xianzhan/leecode)
