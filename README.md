@@ -1,6 +1,6 @@
 👋 你好, 我是 Xianzhan
 <br>
-你可以来[这里](https://github.com/Xianzhan/Xianzhan/issues)联系我, 或者[邮箱📪](mailto:424447832@qq.com)
+你可以来[这里](https://github.com/Xianzhan/Xianzhan/issues)联系我, 或者[邮箱📪](mailto:lixianzhan@foxmail.com)
 
 # Blog
 
@@ -23,8 +23,12 @@
     由 Java 实现的 JVM 字节码解释器
 - [frame](https://github.com/Xianzhan/frame)
     框架模版
-- [user-id-gen](https://github.com/Xianzhan/user-id-gen)
-    用户账号ID"随机"生成
+- [jndi](https://github.com/Xianzhan/jndi)
+    JNDI 模板代码
+- [study-rs](https://github.com/Xianzhan/study-rs)
+    学习 Rust 的练习代码
+- [hubu](https://github.com/Xianzhan/hubu)
+    SpringCloud + ShardingSphere-JDBC 的模板代码
 
 <!--
 **Xianzhan/Xianzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
