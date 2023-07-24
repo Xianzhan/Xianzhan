@@ -1,6 +1,12 @@
-👋 你好, 我是 Xianzhan
-<br>
+👋 你好, 我是 Xianzhan\
 你可以来[这里](https://github.com/Xianzhan/Xianzhan/issues)联系我, 或者[邮箱📪](mailto:lixianzhan@foxmail.com)
+
+<!-- https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xianzhan/Xianzhan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xianzhan/Xianzhan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xianzhan/Xianzhan/output/github-contribution-grid-snake.svg">
+</picture>
 
 # Blog
 
