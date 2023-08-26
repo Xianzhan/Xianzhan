@@ -12,27 +12,18 @@
 
 [CSDN](https://blog.csdn.net/xianzhan_)
 
-# Frame
-
-- [Netty](https://github.com/Xianzhan/frame/tree/master/netty)
-- [Spring Cloud](https://github.com/Xianzhan/frame/tree/master/springcloud)
-
 # Status
 
 学习 [Rust](https://www.rust-lang.org/) 中
 
 # Repository
 
-- [leecode](https://github.com/Xianzhan/leecode)
-    一些有用的 Java 代码
 - [jvmjava](https://github.com/Xianzhan/jvmjava)
     由 Java 实现的 JVM 字节码解释器
 - [frame](https://github.com/Xianzhan/frame)
     框架模版
 - [jndi](https://github.com/Xianzhan/jndi)
     JNDI 模板代码
-- [study-rs](https://github.com/Xianzhan/study-rs)
-    学习 Rust 的练习代码
 - [hubu](https://github.com/Xianzhan/hubu)
     SpringCloud + ShardingSphere-JDBC 的模板代码
 
